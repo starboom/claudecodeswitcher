@@ -1,4 +1,4 @@
-![IMG_0414](https://github.com/user-attachments/assets/39d1c96a-1fc3-4497-9f5b-386c79586fc1)# Claude Code 环境部署脚本
+# Claude Code 环境部署脚本
 
 ## 简介
 这是一个用于配置 Claude Code 开发环境的脚本，支持官方 API 和代理 API 模式的快速切换，并允许用户自定义代理 API URL。脚本提供了灵活的配置选项，适合需要在不同 API 环境间切换的开发者使用。
