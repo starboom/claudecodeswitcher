@@ -1,4 +1,4 @@
-# Claude Code 环境部署脚本
+![IMG_0414](https://github.com/user-attachments/assets/39d1c96a-1fc3-4497-9f5b-386c79586fc1)# Claude Code 环境部署脚本
 
 ## 简介
 这是一个用于配置 Claude Code 开发环境的脚本，支持官方 API 和代理 API 模式的快速切换，并允许用户自定义代理 API URL。脚本提供了灵活的配置选项，适合需要在不同 API 环境间切换的开发者使用。
@@ -85,3 +85,13 @@ chmod +x claudecodeswitcher.sh
 
 ## 作者
 X-@oops073111
+
+## 有没有稳定可靠不封号安全不魔改的claude code 服务(独立运营）
+请大家加地球号 oops0731111 了解
+
+
+![IMG_2967](https://github.com/user-attachments/assets/51981761-c7fc-4f95-b53d-794dddf55e4f)
+
+<img width="930" height="678" alt="好评1" src="https://github.com/user-attachments/assets/5780d9d2-57e3-4355-a8ce-0b434c558c6d" />
+<img width="915" height="514" alt="好评2" src="https://github.com/user-attachments/assets/3d6f63ac-ff43-4e14-a7f0-a31f57dd2310" />
+<img width="863" height="576" alt="好评3" src="https://github.com/user-attachments/assets/4c449c97-0275-4f76-b76b-af8bc82c9cce" />
